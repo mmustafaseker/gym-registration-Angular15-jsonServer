@@ -1,0 +1,28 @@
+{
+  "enquiry": [
+    {
+      "firstName": "test2",
+      "lastName": "test2",
+      "email": "test2",
+      "mobile": "test2",
+      "weight": 11,
+      "height": 33,
+      "bmi": 0.010101010101010102,
+      "bmiResult": "Underweight",
+      "gender": "Male",
+      "trainer": "No",
+      "package": "Yearly",
+      "important": [
+        "Toxic Fat Reduction",
+        "Energy and Endurance",
+        "Building Lean Muscle",
+        "Healthier Digestive System",
+        "Sugar Craving Body",
+        "Fitness"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-02-13T21:00:00.000Z",
+      "id": 2
+    }
+  ]
+}
